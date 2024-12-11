@@ -1,0 +1,106 @@
+#background {
+    padding: 96px;
+
+
+}
+
+#backgroundtwo {
+    max-width: 1412px;
+    padding: 30px;
+    background: #FFB8D7;
+}
+
+#Ourblog {
+    color: #002AFE;
+    text-align: center;
+    margin-top: 40px;
+
+}
+
+#Resourcesandinsights {
+    color: #181D27;
+    text-align: center;
+}
+
+#divwhite {
+    background-color: white;
+}
+
+#text {
+    color: #535862;
+    text-align: center;
+
+}
+
+#imgone1 {
+    width: 100%;
+}
+#imgone{
+    display: inline-block;
+    vertical-align: middle;
+width: 600px;
+border-radius: 16px;
+margin-top: 40px;
+padding: 0 20px;
+
+}
+#imgtwo{
+    width: 600px;
+    border-radius: 16px;
+    margin-top: 40px;
+    padding: 0 20px;
+}
+#imgtwoo{
+    width: 600px;
+border-radius: 16px;
+margin-top: 40px;
+padding: 0 20px;
+}
+#imgthree{
+    width: 600px;
+border-radius: 16px;
+margin-top: 40px;
+padding: 0 20px;
+}
+
+#firsttextt1 {
+    display: inline-block;
+    width: 584px;
+
+   display: inline-block;
+   vertical-align: middle;
+   font-size: 14px;
+}
+#firsttextt{
+    color: #6941C6;
+   display: inline-block;
+   vertical-align: middle;
+   font-size: 14px;
+}
+#secondtext{
+    color: #181D27;
+    font-size: 16px;
+    display: inline-block;
+}
+#imgfor{
+width: 20px;
+height: 20px;
+vertical-align: middle;
+
+}
+#textp{
+    color: #535862;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 14px;
+    width: 584px;
+}
+#textimg{
+    display: inline-block;
+    
+}
+#avatar{
+    width: 40px;
+height: 40px;
+display: inline-block;
+}
