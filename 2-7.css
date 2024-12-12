@@ -73,7 +73,6 @@ padding: 0 20px;
 }
 #firsttextt{
     color: #6941C6;
-   display: inline-block;
    vertical-align: middle;
    font-size: 14px;
 }
@@ -99,8 +98,90 @@ vertical-align: middle;
     display: inline-block;
     
 }
-#avatar{
-    width: 40px;
-height: 40px;
-display: inline-block;
+#name{
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+    padding: 0;
+}
+
+#date {
+    padding: 0;
+    margin: 0;
+}
+
+
+#avatarImage, #avatarInfo {
+    display: inline-block;
+}
+#product{
+    color: #6941C6;
+    vertical-align: middle;
+    font-size: 14px;
+ }
+#arrow{
+    width: 20px;
+height: 20px;
+vertical-align: middle;
+
+}
+#collaboration{
+    color: #535862;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 14px;
+    width: 584px;
+}
+#nametwo{
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+    padding: 0;
+}
+#customer{
+    color: #6941C6;
+    vertical-align: middle;
+    font-size: 14px;
+}
+#podcaste{
+    color: #181D27;
+    font-size: 16px;
+    
+}
+#imgforr{
+    width: 20px;
+height: 20px;
+vertical-align: middle;
+}
+#Starting{
+    color: #535862;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 14px;
+    width: 584px;
+}
+#avatarthree{
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+    padding: 0;
+}
+#namethree{
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+    padding: 0;
+}
+#datethree{
+    padding: 0;
+    margin: 0;
+}
+#avatarImagee{
+    display: inline-block;
+}
+#avatarInfoo{
+    display: inline-block;
+}
+#poscast {
+    display: inline-block;
 }
